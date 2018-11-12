@@ -1,0 +1,38 @@
+ 
+
+.circle{
+
+  text-align: center;
+  vertical-align:middle;
+  background:#bfd70e;
+  display:inline-block;
+  border-radius:50%;
+  width:80px;
+  height:80px;
+  border:2px solid #679403; 
+  opacity: 0.6;
+  top: 50%;
+  vertical-align: middle;
+  padding: 0.5%;
+
+
+}
+
+
+.circlebis {
+
+  text-align: center;
+  vertical-align:middle;
+  background:#0e15ff4f;
+  display:inline-block;
+  border-radius:50%;
+  width:80px;
+  height:80px;
+  border:2px solid #ff860e; 
+  opacity: 0.6;
+  top: 50%;
+  vertical-align: middle;
+  padding: 0.5%;
+
+
+}
